@@ -5,7 +5,7 @@ import { ImageGalleryItem } from './ImageGalleryItem/ImageGalleryItem';
 import { Loader } from './Loader/Loader';
 import { Button } from './Button/Button';
 import { Modal } from 'components/Modal/Modal';
-import { fetchPictures } from './Services/Services';
+import { fetchPictures } from './services';
 
 import css from './ImageGallery/ImageGallery.module.css';
 
